@@ -1,0 +1,41 @@
+이벤트 이름
+	- 어떤 스테이지 or 컷신인지
+---------------------------------------
+prologue1
+	- stage: 퇴근 지하철 내부
+	- cut scene1
+prologue2
+	- stage: 마법 지하철
+prologue3
+	- stage: 마법 지하철
+stage1_start
+stage1_meetCloseDoor
+stage1_openDoor
+stage1_powerOffZipline
+stage1_powerOnZipline
+	- stage: stage1
+stage1_end_story
+stage1_end_learnSkill
+	- stage: stage1 story
+stage2_start_meetLazer
+stage2_useSkill
+	- stage: stage2
+stage2_end_story
+	- stage: stage2 story
+	- cut scene2
+	- stage: stage2 story
+stage3_start
+	- stage: stage3
+stage3_end
+	- stage: stage3 story
+finalBossStage_start
+finalBossStage_meetBoss
+finalBossStage_bossHP50%
+finalBossStage_defeated
+epilogue1
+	- stage: finalBossStage
+epilogue2
+	- stage: 퇴근 지하철 내부
+epilogue3
+	- stage: 집
+	- cut scene3

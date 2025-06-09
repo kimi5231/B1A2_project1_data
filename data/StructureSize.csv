@@ -1,0 +1,18 @@
+DestructibleObject,64.00 ,46.00 ,32.00 ,23.00 
+BreakingDestructibleObject,,,,
+Wall,80.00 ,240.00 ,40.00 ,120.00 
+BreakingWall,,,,
+WallShot,80.00 ,160.00 ,40.00 ,80.00 
+BreakingWallShort,,,,
+WallLong,80.00 ,280.00 ,40.00 ,140.00 
+BreakingWallLong,,,,
+LockedDoor,80.00 ,240.00 ,40.00 ,120.00 
+UnlockedDoor,,,,
+Window,280.00 ,120.00 ,140.00 ,60.00 
+ZipLine,4.00 ,598.00 ,2.00 ,299.00 
+ZipLineGrip,15.00 ,9.00 ,7.50 ,4.50 
+ZipLineDisplay,69.00 ,78.00 ,34.50 ,39.00 
+ZipLineButton,84.00 ,96.00 ,42.00 ,48.00 
+FootHoldAndZipLineButton,84.00 ,96.00 ,42.00 ,48.00 
+FootHold,400.00 ,120.00 ,200.00 ,60.00 
+Crystal,41.00 ,77.00 ,20.50 ,38.50 
